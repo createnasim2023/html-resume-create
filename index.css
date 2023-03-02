@@ -1,0 +1,44 @@
+nav {
+
+    background: rgb(230, 231, 238);
+
+    color: rgb(42, 210, 159);
+
+    margin: 11px;
+    margin-left: 11px;
+    padding: 11px;
+    font-size: larger;
+
+}
+
+h1{
+
+    text-align: center;
+
+}
+
+table{
+
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+footer{
+    text-align: center;
+
+
+    background: rgb(237, 218, 218);
+}
+
+strong{
+
+    text-align: center;
+    
+}
+td{
+
+    font-size: larger;
+    text-align: center;
+}
